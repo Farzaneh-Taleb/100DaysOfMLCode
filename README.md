@@ -46,6 +46,16 @@ I have completed 3 weeks of this course.
 **Link of Work:**   [Introduction to Data Analytics for Business](https://www.coursera.org/learn/data-analytics-business/home/welcome)
 
 
+## Day 5 : Feb 10 , 2019
+
+**Today's Progress** :  I have finished the second week of "Introduction to Data Analytics for Business"  in coursera.org.
+
+**Thoughts** : Review of some previous knowledge. 
+
+**New Topics that I learned** :Data Federation, Data mart, cube
+
+**Link of Work:**   [Introduction to Data Analytics for Business](https://www.coursera.org/learn/data-analytics-business/home/welcome)
+
 
 
 
