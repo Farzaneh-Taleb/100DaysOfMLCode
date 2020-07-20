@@ -46,9 +46,22 @@ I have completed 3 weeks of this course.
 **Link of Work:**   [Introduction to Data Analytics for Business](https://www.coursera.org/learn/data-analytics-business/home/welcome)
 
 
-## Day 5 : Feb 10 , 2019
+## Day 5 : Feb 10 , 2019 
+### Come Back !
 
-**Today's Progress** :  I have finished the second week of "Introduction to Data Analytics for Business"  in coursera.org.
+**Today's Progress** :  I started to study neuromatch acadamy course as an observer!
+
+**Thoughts** : It's a really amazing course. I hope learn and review many things!
+
+**New Topics that I learned** :Different Types of modeling :  "How" models, "What" models, "Why" models.
+
+**Link of Work:**   [Introduction to Data Analytics for Business](https://www.coursera.org/learn/data-analytics-business/home/welcome)
+
+
+
+## Day 6 : July 20 , 2020
+
+**Today's Progress** :  
 
 **Thoughts** : Review of some previous knowledge. 
 
